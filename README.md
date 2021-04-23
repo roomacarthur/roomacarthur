@@ -3,7 +3,7 @@
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
 - 📫 How to reach me? roomacarthur@gmail.com
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&theme=tokyonight&showicons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&theme=merko&showicons=true)
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&langs_count=5&theme=merko)
 
