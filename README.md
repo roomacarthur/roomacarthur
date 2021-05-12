@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @roomacarthur AKA Roo.
-- 👀 I’m interested in learning AI and machine learning. 
+### 👋 Hi, I'm Ruairidh, AKA Roo
+
+- 👀 I’m interested in becoming a Full Stack Developer. 
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
-- 📫 How to reach me? roomacarthur@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
+- 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" />
@@ -15,3 +17,18 @@
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
 
+### Code Institute Milestone Projects: 
+
+##MS1 - SEASTAINABILITY - Complete!
+![Site example on multiple devices.](assets/images/readme-images/amiresponsive.png)
+[Repository](https://github.com/roomacarthur/seastainability)
+[Live Site](https://roomacarthur.github.io/seastainability/index.html)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+##MS2 - The Tipsy Quiz - working on.
+[Repository](https://github.com/roomacarthur/the-tipsy-quiz)
+[Live Site](https://roomacarthur.github.io/the-tipsy-quiz/)
