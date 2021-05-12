@@ -35,3 +35,5 @@
 [Live Site](https://roomacarthur.github.io/the-tipsy-quiz/)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&show_icons=true&theme=radical&showicons=true)
+
+<img src=https://komarev.com/ghpvc/?username = roomacarthur/>
