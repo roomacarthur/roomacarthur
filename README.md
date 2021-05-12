@@ -20,7 +20,7 @@
 ### Code Institute Milestone Projects: 
 
 ##MS1 - SEASTAINABILITY - Complete!
-![Site example on multiple devices.](assets/images/readme-images/amiresponsive.png)
+![Site example on multiple devices.](https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/seastainability)
 [Live Site](https://roomacarthur.github.io/seastainability/index.html)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
