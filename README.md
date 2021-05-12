@@ -14,11 +14,12 @@
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
 
-### Code Institute Milestone Projects: 
+## Code Institute Milestone Projects: 
 
-## MS1 - SEASTAINABILITY - Complete!
+### MS1 - SEASTAINABILITY - Complete!
 ![Site example on multiple devices.](https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/seastainability)
+
 [Live Site](https://roomacarthur.github.io/seastainability/index.html)
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -27,7 +28,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-## MS2 - The Tipsy Quiz - working on.
+### MS2 - The Tipsy Quiz - working on.
 
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
