@@ -36,4 +36,4 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&show_icons=true&theme=radical&showicons=true)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur)
+![Visitors:](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur)
