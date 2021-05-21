@@ -18,7 +18,7 @@
 
 ## Code Institute Milestone Projects: 
 
-### MS1 - SEASTAINABILITY - Complete!
+### MS1 - SEASTAINABILITY - Merit
 ![Site example on multiple devices.](https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/seastainability)
 
@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-### MS2 - The Tipsy Quiz - working on.
+### MS2 - The Tipsy Quiz - Current Project.
 
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
