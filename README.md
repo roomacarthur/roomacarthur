@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ### MS2 - The Tipsy Quiz - Current Project.
-
+![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
 [Live Site](https://roomacarthur.github.io/the-tipsy-quiz/)
