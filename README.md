@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ruairidh, AKA Roo
 
-- 👀 I’m interested in becoming a Full Stack Developer. 
+- 👀 I’m a Full Stack Developer. 
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 
