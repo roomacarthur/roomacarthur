@@ -9,9 +9,9 @@
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
 
-## Code Institute Milestone Projects: 
+## Code Institute Portfolio Projects: 
 
-### MS1 - SEASTAINABILITY - Merit
+### PP1 - SEASTAINABILITY - Merit
 ![Site example on multiple devices.](https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/seastainability)
 
@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### MS2 - The Tipsy Quiz - Current Project.
+### PP2 - The Tipsy Quiz - Current Project.
 ![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
@@ -33,6 +33,19 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+### PP3 - Escape The Cave
+![Live example of escape the cave](https://github.com/roomacarthur/escape-the-cave/blob/main/assets/images/example1.gif)
+
+[Repository](https://github.com/roomacarthur/escape-the-cave)
+
+[Live site](https://escape-the-cave.herokuapp.com/)
+
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
