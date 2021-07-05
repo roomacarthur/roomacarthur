@@ -24,7 +24,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-### PP2 - The Tipsy Quiz - Current Project.
+### PP2 - The Tipsy Quiz - Distinction
 ![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-### PP3 - Escape The Cave
+### PP3 - Escape The Cave - awaiting result.
 ![Live example of escape the cave](https://github.com/roomacarthur/escape-the-cave/blob/main/assets/images/example1.gif)
 
 [Repository](https://github.com/roomacarthur/escape-the-cave)
