@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### PP2 - The Tipsy Quiz - Distinction
-![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
+<div width="50%" margin="0 auto">![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)</div>
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
 [Live Site](https://roomacarthur.github.io/the-tipsy-quiz/)
