@@ -26,9 +26,11 @@
 
 ### PP2 - The Tipsy Quiz - Distinction
 
-<div width="50%" margin="0 auto">
-  ![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
-</div>
+<img width="50%" alt="Site exmaple on multiple devices" src="https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png"/>
+
+
+![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
+
 
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
