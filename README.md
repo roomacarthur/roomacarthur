@@ -12,7 +12,12 @@
 ## Code Institute Portfolio Projects: 
 
 ### PP1 - SEASTAINABILITY - Merit
+
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png"/>
+
 ![Site example on multiple devices.](https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png)
+
+
 [Repository](https://github.com/roomacarthur/seastainability)
 
 [Live Site](https://roomacarthur.github.io/seastainability/index.html)
@@ -28,10 +33,6 @@
 
 <img width="50%" margin="o auto" alt="Site exmaple on multiple devices" src="https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png"/>
 
-
-![Site example on multiple devices](https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png)
-
-
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
 [Live Site](https://roomacarthur.github.io/the-tipsy-quiz/)
@@ -45,6 +46,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ### PP3 - Escape The Cave - awaiting result.
+
+<img width="50%" margin="o auto" alt="Live example of the application in the terminal" src="https://github.com/roomacarthur/escape-the-cave/blob/main/assets/images/example1.gif"/>
+
+
 ![Live example of escape the cave](https://github.com/roomacarthur/escape-the-cave/blob/main/assets/images/example1.gif)
 
 [Repository](https://github.com/roomacarthur/escape-the-cave)
