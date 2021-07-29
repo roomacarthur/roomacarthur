@@ -27,7 +27,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
 
 ## Code Institute Portfolio Projects: 
 
@@ -78,5 +77,6 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&show_icons=true&theme=radical&showicons=true)
 
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
 
 ![Visitors:](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur)
