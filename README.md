@@ -5,7 +5,7 @@
 - 🎓 I'm currently Focusing on increasing my Django Knowledge 
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 
-<h2 align="center">📖Languages and tools🛠</h2>
+<h2 align="center">📖 Languages and Tools 🛠</h2>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,7 +29,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
-<h2 align="center"> 👨🏻‍🎓Code Institute Portfolio Projects: </h2>
+<h2 align="center"> 👨🏻‍🎓Code Institute Portfolio Projects👨🏻‍🎓 </h2>
 
 ### PP1 - SEASTAINABILITY - Merit
 
