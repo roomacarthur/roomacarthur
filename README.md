@@ -1,4 +1,4 @@
-<h1 align="center> 👋 Hi, I'm Ruairidh, AKA Roo </h1>
+<h1 align="center"> 👋 Hi, I'm Ruairidh, AKA Roo </h1>
 
 - 👀 I’m a Full Stack Developer. 
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
@@ -28,7 +28,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
-<h2 align="center> 👨🏻‍🎓Code Institute Portfolio Projects: </h2>
+<h2 align="center"> 👨🏻‍🎓Code Institute Portfolio Projects: </h2>
 
 ### PP1 - SEASTAINABILITY - Merit
 
