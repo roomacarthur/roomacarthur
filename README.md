@@ -2,6 +2,7 @@
 
 - 👀 I’m a Full Stack Developer. 
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
+- 🎓 I'm currently Focusing on increasing my Django Knowledge 
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 
 ---
