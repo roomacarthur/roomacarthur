@@ -2,6 +2,9 @@
 
 <div align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur" alt="visitors"></div>
 
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+
+
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
 - 🎓 I'm currently working on a Full-Stack Django application.
