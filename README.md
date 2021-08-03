@@ -1,9 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Ruairidh(Roo)</h1>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bak2k3&label=Profile%20views&color=0e75b6&style=flat" alt="bak2k3" /> </p>
-
+<div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views%20views" alt="visitors"></div>
 
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
