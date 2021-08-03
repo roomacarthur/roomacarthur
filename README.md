@@ -5,7 +5,7 @@
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
 - 🎓 I'm currently working on a Full-Stack Django application.
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
-- 📑 Click [here](./cv/ruairidh-macarthur.pdf) to take a look at my CV.
+- 📑 Click [here](cv/ruairidh-macarthur.pdf) to take a look at my CV.
 
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
@@ -77,5 +77,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
+<h2 align="center"> ✨Stats🔎 </h2>
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=roomacarthur&theme=ads-juicy-fresh" alt="roomacarthur" /></p></div>
