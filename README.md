@@ -1,4 +1,5 @@
 <h1 align="center"> 👋 Hi, I'm Ruairidh(Roo)</h1>
+
 <div align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur" alt="visitors"></div>
 
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
