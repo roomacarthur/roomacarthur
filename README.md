@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hi, I'm Ruairidh(Roo)</h1>
 
-<div align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur" alt="visitors"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bak2k3&label=Profile%20views&color=0e75b6&style=flat" alt="bak2k3" /> </p>
 
 
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
