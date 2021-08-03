@@ -1,8 +1,8 @@
-<h1 align="center"> 👋 Hi, I'm Ruairidh, AKA Roo </h1>
+<h1 align="center"> 👋 Hi, I'm Ruairidh(Roo)</h1>
 
-- 👀 I’m a Full Stack Developer. 
-- 🌱 I’m currently Studying, Diploma in Software Development through Code Institute. 
-- 🎓 I'm currently Focusing on increasing my Django Knowledge 
+- 👀 I’m a Full Stack Developer.
+- 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
+- 🎓 I'm currently Focusing on increasing my Django Knowledge
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 
 <h2 align="center">📖 Languages and Tools 🛠</h2>
@@ -25,7 +25,7 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/TravelTimN)
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
