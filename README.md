@@ -6,7 +6,7 @@
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
 - 🎓 I'm currently working on a Full-Stack Django application.
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
-- 📑 Click [here](./cv/ruairidh-macarthur.pdf) to take a look at my CV.
+- 📑 Click [here](./cv/ruairidh-macarthur-cv.pdf) to take a look at my CV.
 
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
