@@ -1,9 +1,11 @@
 <h1 align="center"> 👋 Hi, I'm Ruairidh(Roo)</h1>
+<div align="center"><img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur" alt="visitors"></div>
 
-- 👀 I’m a Full Stack Developer.
+- 👀 I’m a Full Stack Developer with a keen eye for detail.
 - 🌱 I’m currently Studying, Diploma in Software Development through Code Institute.
-- 🎓 I'm currently Focusing on increasing my Django Knowledge
+- 🎓 I'm currently working on a Full-Stack Django application.
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
+- 📑 Click [here](./cv/ruairidh-macarthur.pdf) to take a look at my CV.
 
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
@@ -25,7 +27,7 @@
 
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
 
@@ -33,7 +35,7 @@
 
 ### PP1 - SEASTAINABILITY - Merit
 
-<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="https://github.com/roomacarthur/seastainability/blob/main/assets/images/readme-images/amiresponsive.png"/>
+<img width="50%" text-align="center" alt="Site exmaple on multiple devices" src="assets/img/seastainability.png"/>
 
 [Repository](https://github.com/roomacarthur/seastainability)
 
@@ -48,7 +50,7 @@
 
 ### PP2 - The Tipsy Quiz - Distinction
 
-<img width="50%" margin="o auto" alt="Site exmaple on multiple devices" src="https://github.com/roomacarthur/the-tipsy-quiz/blob/main/assets/images/readme-images/amiresponsive.png"/>
+<img width="50%" margin="o auto" alt="Site exmaple on multiple devices" src="assets/img/tipsyquiz.png"/>
 
 [Repository](https://github.com/roomacarthur/the-tipsy-quiz)
 
@@ -64,7 +66,7 @@
 
 ### PP3 - Escape The Cave - awaiting result.
 
-<img width="50%" margin="o auto" alt="Live example of the application in the terminal" src="https://github.com/roomacarthur/escape-the-cave/blob/main/assets/images/example1.gif"/>
+<img width="50%" margin="o auto" alt="Live example of the application in the terminal" src="assets/img/escapethecave.gif"/>
 
 [Repository](https://github.com/roomacarthur/escape-the-cave)
 
@@ -76,8 +78,4 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=roomacarthur&count_private=true&show_icons=true&theme=radical&showicons=true)
-
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=roomacarthur&layout=compact&theme=radical)
-
-![Visitors:](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/roomacarthur)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=roomacarthur&theme=ads-juicy-fresh" alt="roomacarthur" /></p></div>
