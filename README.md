@@ -66,7 +66,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-### PP3 - Escape The Cave - awaiting result.
+### PP3 - Escape The Cave - Merit
 
 <img width="50%" margin="o auto" alt="Live example of the application in the terminal" src="assets/img/escapethecave.gif"/>
 
