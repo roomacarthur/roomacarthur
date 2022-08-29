@@ -1,4 +1,4 @@
-<h1 align="center">![Header](./github-header-image.png)</h1>
+<div align="center"><img src="https://github.com/roomacarthur/roomacarthur/blob/main/github-header-image.png"></div>
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
 
