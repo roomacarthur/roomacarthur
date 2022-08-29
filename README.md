@@ -11,27 +11,17 @@
 
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
-![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
-![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
-![Django](https://img.shields.io/badge/Django%20-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=FFFFFF)
-![Leaflet](https://img.shields.io/badge/Leaflet%20-%23199900.svg?&style=for-the-badge&logo=Leaflet&logoColor=C0E970)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20-%234285F4.svg?&style=for-the-badge&logo=Google%20Maps&logoColor=FFFFFF)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
-
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,python," />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,,heroku,git,github,vscode,postgres" />
+  </a>
+</p>
+
 
 
 
