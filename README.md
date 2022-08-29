@@ -18,7 +18,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,,heroku,git,github,vscode,postgres" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,heroku,git,github,vscode,postgres" />
   </a>
 </p>
 
