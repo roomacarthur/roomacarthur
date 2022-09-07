@@ -32,7 +32,7 @@
 
 - [Skill Icons](https://skillicons.dev/)
 
-<h2 align="center"> Free Heroku Alternative </h2>
+<h2 align="center">🆓 Free Heroku Alternative 🚂</h2>
 
 <a align="center" href="https://railway.app?referralCode=1OGSuO"><img src="https://railway.app/og.png" alt="Railway App (Refferal)"/></a>
 
