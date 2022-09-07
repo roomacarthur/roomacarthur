@@ -1,6 +1,6 @@
-# Helpful Chrome Extensions For Developers
+# Chrome Extensions For Developers
 
-Bellow is a compiled list of extremely helpful Chrome extensions.
+A complied list of extremely helpful Chrome extensions for the everyday developer.
 
 ## 1. <a href="https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp" target="_blank">ColorZilla</a> 🎨
 
