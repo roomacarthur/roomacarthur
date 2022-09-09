@@ -9,3 +9,7 @@ A complied list of extremely helpful Chrome extensions for the everyday develope
 ## 2. <a href="https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm" target="_blank">WhatFont</a> 🔠
 
   WhatFont allows for you to take a more indepth look into the fonts being used, not only can you see the font type you can also dive deeper into the styling and with a simple click reveal the style, weight, size, color, line height and also the rest of the font family.
+
+## 3. <a href="https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg" target="_blank">Wappalyzer</a> 🔍
+
+  Wappalyxer is an extension that allows you to see what was used to build a website, lagnuages, CMS, Frameworks, e-commerce platforms and much more! 
