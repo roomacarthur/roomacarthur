@@ -28,10 +28,10 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=roomacarthur&theme=ads-juicy-fresh" alt="roomacarthur" /></p></div>
 
-### Built with
-
-- [Skill Icons](https://skillicons.dev/)
-
 <div align="center">
 <a href="https://app.daily.dev/RooMacArthur"><img src="https://api.daily.dev/devcards/b3c1a2b3f1834dd89cef93ad3f29e1be.png?r=exm" width="400" alt="Ruairidh MacArthur's Dev Card"/></a>
 </div>
+
+<h2 align="center">⚒️ Built with 🛠️</h2>
+
+- [Skill Icons](https://skillicons.dev/)
