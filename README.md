@@ -32,5 +32,6 @@
 
 - [Skill Icons](https://skillicons.dev/)
 
-
-<a align="center" href="https://app.daily.dev/RooMacArthur"><img src="https://api.daily.dev/devcards/b3c1a2b3f1834dd89cef93ad3f29e1be.png?r=exm" width="400" alt="Ruairidh MacArthur's Dev Card"/></a>
+<div align="center">
+<a href="https://app.daily.dev/RooMacArthur"><img src="https://api.daily.dev/devcards/b3c1a2b3f1834dd89cef93ad3f29e1be.png?r=exm" width="400" alt="Ruairidh MacArthur's Dev Card"/></a>
+</div>
