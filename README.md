@@ -9,8 +9,10 @@
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 - 📑 Click [here](./cv/ruairidh-macarthur-cv.pdf) to take a look at my CV.
 
-<h2 align="center> free-qr.codes - Free online QR code generator</h2>
 
+<h2 align="center>[Free-QR.codes](https://www.free-qr.codes) - Free online QR code Generator.</h2>
+
+           
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
 <p align="center">
