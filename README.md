@@ -18,12 +18,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,heroku,git,github,vscode,postgres" 
-
-
-               />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,heroku,git,github,vscode,postgres"/>
   </a>
 </p>
+
 [![My Skills](https://skillicons.dev/icons?i=html,js,py,css,bootstrap,tailwind,django,react,aws,heroku,babel,vite,git&perline=6)](https://skillicons.dev)
 
 
