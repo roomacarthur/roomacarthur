@@ -17,12 +17,12 @@
 <h2 align="center">📖 Languages and Tools 🛠</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,flask,django,heroku,git,github,vscode,postgres"/>
-  </a>
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,py,css,bootstrap,tailwind,django,react,aws,heroku,postgres,vscode,babel,vite,git,github&perline=6)](https://skillicons.dev)
+
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,py,css,bootstrap,tailwind,django,react,aws,heroku,babel,vite,git&perline=6)](https://skillicons.dev)
+
 
 
 <h2 align="center"> ✨Stats🔎 </h2>
