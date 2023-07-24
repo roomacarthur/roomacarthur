@@ -11,7 +11,8 @@
 
 <h2>Some of my work</h2>
 
-[Free online QR code generator.](https://www.free-qr.codes)
+[free-qr.codes | Free QR code generator](https://www.free-qr.codes)
+[thecrownhawes.com | React website for local business](https://www.thecrownhawes.com)
            
           
 <h2 align="center">📖 Languages and Tools 🛠</h2>
