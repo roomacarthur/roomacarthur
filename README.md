@@ -14,6 +14,10 @@
 [free-qr.codes | Free QR code generator](https://www.free-qr.codes)
 
 [thecrownhawes.com | React website for local business](https://www.thecrownhawes.com)
+
+[SEASTAINABILITY | Static HTML/CSS site (personal project)](https://github.com/roomacarthur/seastainability)
+
+[The Tipsy Quiz | HTML/CSS/JS interactive quiz (personal project)](https://github.com/roomacarthur/the-tipsy-quiz)
            
           
 <h2 align="center">📖 Languages and Tools 🛠</h2>
