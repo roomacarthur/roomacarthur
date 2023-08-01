@@ -11,13 +11,19 @@
 
 <h2>Some of my work</h2>
 
-[free-qr.codes | Free QR code generator](https://www.free-qr.codes)
+[free-qr.codes | HTML/Bootstrap/JS Free QR code generator](https://www.free-qr.codes)
 
-[thecrownhawes.com | React website for local business](https://www.thecrownhawes.com)
+[thecrownhawes.com | React/TailwindCSS website for local business](https://www.thecrownhawes.com)
 
 [SEASTAINABILITY | Static HTML/CSS site (personal project)](https://github.com/roomacarthur/seastainability)
 
 [The Tipsy Quiz | HTML/CSS/JS interactive quiz (personal project)](https://github.com/roomacarthur/the-tipsy-quiz)
+
+[Escape The Cave | CLI Python Game (personal project)](https://github.com/roomacarthur/escape-the-cave)
+
+[Peer Code Review | HTML/CSS/JS/JQuery/Python/Django (personal project)](https://github.com/roomacarthur/pcr)
+
+[Winos Den | HTML/CSS/JS/Python/JQuery/Django (personal project)](https://github.com/roomacarthur/winos_den)
            
           
 <h2 align="center">📖 Languages and Tools 🛠</h2>
