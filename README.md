@@ -1,4 +1,4 @@
-# [My Portfolio](https://www.roomacarthur.dev)
+# [Visit My Portfolio/Blog](https://www.roomacarthur.dev)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
 
