@@ -14,8 +14,6 @@
 
 [Python Script to sort the contents of a folder](https://github.com/roomacarthur/downloadify)
 
-[free-qr.codes | HTML/Bootstrap/JS Free QR code generator](https://www.free-qr.codes)
-
 [thecrownhawes.com | React/TailwindCSS website for local business](https://www.thecrownhawes.com)
 
 [SEASTAINABILITY | Static HTML/CSS site (personal project)](https://github.com/roomacarthur/seastainability)
