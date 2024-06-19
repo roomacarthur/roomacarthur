@@ -1,14 +1,14 @@
-# [Visit My Portfolio/Blog](https://www.roomacarthur.dev)
+# [Visit www.roomacarthur.dev](https://www.roomacarthur.dev)
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
 
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
 - 💡 I focus mainly on Django, React and NextJS
 - 🌱 I'm forever learning and improving my coding skills. 
-- 🎓 Diploma in Full Stack Software Development from Code Institute.
-- 📘 I'm currently working on a Full-Stack Django/React application that may👀 take the world by storm⚡.
+- 🎓 Diploma in Full Stack Software Development.
+- 🏢 Full Stack Developer and Software Tutor at Code Institute..
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
-- 📑 Click [here](./cv/ruairidhmacarthur_cv.pdf) to take a look at my CV.
+
 
 <h2>Some of my work</h2>
 
