@@ -14,8 +14,6 @@
 
 [Python Script to sort the contents of a folder](https://github.com/roomacarthur/downloadify)
 
-[thecrownhawes.com | React/TailwindCSS website for local business](https://www.thecrownhawes.com)
-
 [SEASTAINABILITY | Static HTML/CSS site (personal project)](https://github.com/roomacarthur/seastainability)
 
 [The Tipsy Quiz | HTML/CSS/JS interactive quiz (personal project)](https://github.com/roomacarthur/the-tipsy-quiz)
