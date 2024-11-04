@@ -18,6 +18,8 @@
 
 [The Tipsy Quiz | HTML/CSS/JS interactive quiz (personal project)](https://github.com/roomacarthur/the-tipsy-quiz)
 
+[Flags Quiz | HTML/CSS/Bootstrap /JS interactive quiz (personal project)](https://github.com/roomacarthur/flags)
+
 [Escape The Cave | CLI Python Game (personal project)](https://github.com/roomacarthur/escape-the-cave)
 
 [Peer Code Review | HTML/CSS/JS/JQuery/Python/Django (personal project)](https://github.com/roomacarthur/pcr)
