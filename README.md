@@ -2,7 +2,6 @@
 
 Updated: 5th Jan 2025
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=roomacarthur&color=brightgreen&style=flat&label=Views" alt="visitors"></div>
 
 - 👀 I’m a Full Stack Developer with a keen eye for detail.
 - 💡 I focus mainly on Django, React and NextJS
