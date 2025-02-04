@@ -8,7 +8,7 @@ Updated: 5th Jan 2025
 - 💡 I focus mainly on Django, React and NextJS
 - 🌱 I'm forever learning and improving my coding skills. 
 - 🎓 Diploma in Full Stack Software Development.
-- 🏢 Full Stack Developer and Software Tutor at Code Institute..
+- 🏢 Full Stack Developer and Software Coach at Code Institute..
 - 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
 
 
