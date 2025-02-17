@@ -1,4 +1,4 @@
-# [New Portfolio! Check it out @ roomacarthur.dev ](https://www.roomacarthur.dev)
+# [Find out more @ roomacarthur.dev ](https://www.roomacarthur.dev)
 
 Updated: 5th Jan 2025
 
