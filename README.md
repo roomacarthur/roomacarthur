@@ -1,11 +1,26 @@
-# [Find out more @ roomacarthur.dev ](https://www.roomacarthur.dev)
+# Ruairidh MacArthur
 
-Updated: 5th Jan 2025
+Entrepreneur & multi-business owner. I build things — companies included.
 
+---
 
-- 👀 I’m a Full Stack Developer with a keen eye for detail.
-- 💡 I focus mainly on Python🐍, TypeScript⌨️, Django🚀 & React⚛️.
-- 🌱 I'm forever learning and improving my coding/problem solving skills. 
-- 🎓 Qualified in Full Stack Software Development.
-- 🏢 Full Stack Developer and Software Coach at Code Institute.
-- 📫 If you want to get in touch, contact me on [LinkedIn](https://www.linkedin.com/in/ruairidh-macarthur-23427a191/)
+### About
+
+I run multiple businesses across SaaS, e-commerce, physical retail, fulfilment, and construction. I come from a full-stack development background, which means I understand the technical side of what I build and can move quickly when it matters.
+
+---
+
+### Ventures
+
+- 🖥️ SaaS platforms
+- 🛒 E-commerce
+- 🏪 Physical retail
+- 📦 Amazon FBA
+- 🏗️ Construction
+
+---
+
+### A few things
+
+- 💻 Qualified full-stack developer — Python, TypeScript, Django, React
+- 🔄 Always learning, always improving
